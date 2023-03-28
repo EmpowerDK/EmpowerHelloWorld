@@ -11,7 +11,7 @@ to Skyline Communications.
 
 A user license granted for this script is strictly for personal use only.
 This script may not be used in any way by anyone without the prior
-written consent of Skyline Communications. Any sublicensing of this
+written consent of Skyline Communications. Any sublicensing of this 
 script is forbidden.
 
 Any modifications to this script by the user are only allowed for
