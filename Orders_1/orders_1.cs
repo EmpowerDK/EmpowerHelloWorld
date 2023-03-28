@@ -5,7 +5,7 @@
 
 By using this script, you expressly agree with the usage terms and
 conditions set out below.
-This script and all related materials are protected by copyrights and
+This script and all related materials are protected by copyrights and 
 other intellectual property rights that exclusively belong
 to Skyline Communications.
 
