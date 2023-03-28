@@ -71,6 +71,7 @@ namespace Empower_1_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("Hello World");
+			engine.GenerateInformation("Hello Dave how are you");
 
 			IDms thisDms = engine.GetDms();
 
